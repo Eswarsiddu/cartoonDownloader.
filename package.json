@@ -1,0 +1,23 @@
+{
+  "name": "cartoondownloader",
+  "version": "1.0.0",
+  "description": "Parallel cartoon downloader and S3 uploader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "downloader",
+    "s3",
+    "parallel",
+    "cartoons"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.441.0",
+    "axios": "^1.5.0"
+  }
+}
