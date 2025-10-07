@@ -1,0 +1,802 @@
+[
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 179,
+    "sizeInMB": 83.49,
+    "seasonEpisodeNumber": 4,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%209/Episode%20179//179%20Kakashi%20Hatake%20-%20The%20Jonin%20in%20Charge.mp4",
+    "fileName": "Kakashi Hatake - The Jonin in Charge.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 09/S09E04 - (Ep179) Kakashi Hatake - The Jonin in Charge.mp4",
+    "index": 1853
+  },
+  {
+    "title": "Naruto",
+    "globalEpisodeNumber": 24,
+    "sizeInMB": 83.51,
+    "seasonEpisodeNumber": 24,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto/Season%201/Episode%2024//24%20The%20Chuunin%20Exam%20Begins.mp4",
+    "fileName": "The Chuunin Exam Begins.mp4",
+    "s3Path": "tv/Naruto (2005)/Season 01/S01E24 - (Ep24) The Chuunin Exam Begins.mp4",
+    "index": 1854
+  },
+  {
+    "title": "Avatar: The Last Airbender",
+    "globalEpisodeNumber": 19,
+    "sizeInMB": 83.52,
+    "seasonEpisodeNumber": 19,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/A/Avatar%20The%20Last%20Airbender/Season%201%20Water/Episode%2019//19%20The%20Siege%20Of%20The%20North%20Part%201.mp4",
+    "fileName": "The Siege Of The North Part 1.mp4",
+    "s3Path": "tv/Avatar: The Last Airbender (2005)/Season 01/S01E19 - (Ep19) The Siege Of The North Part 1.mp4",
+    "index": 1855
+  },
+  {
+    "title": "Ben 10",
+    "globalEpisodeNumber": 14,
+    "sizeInMB": 83.53,
+    "seasonEpisodeNumber": 1,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/B/Ben%2010/Season%202//14%20Truth%20Salman.mp4",
+    "fileName": "Truth Salman.mp4",
+    "s3Path": "tv/Ben 10 (2007)/Season 02/S02E01 - (Ep14) Truth Salman.mp4",
+    "index": 1856
+  },
+  {
+    "title": "Naruto",
+    "globalEpisodeNumber": 19,
+    "sizeInMB": 83.53,
+    "seasonEpisodeNumber": 19,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto/Season%201/Episode%2019//19%20The%20Demon%20in%20the%20Snow.mp4",
+    "fileName": "The Demon in the Snow.mp4",
+    "s3Path": "tv/Naruto (2005)/Season 01/S01E19 - (Ep19) The Demon in the Snow.mp4",
+    "index": 1857
+  },
+  {
+    "title": "Naruto",
+    "globalEpisodeNumber": 220,
+    "sizeInMB": 83.53,
+    "seasonEpisodeNumber": 35,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto/Season%205/Episode%20220//220%20Departure.mp4",
+    "fileName": "Departure.mp4",
+    "s3Path": "tv/Naruto (2005)/Season 05/S05E35 - (Ep220) Departure.mp4",
+    "index": 1858
+  },
+  {
+    "title": "Avatar: The Last Airbender",
+    "globalEpisodeNumber": 16,
+    "sizeInMB": 83.54,
+    "seasonEpisodeNumber": 16,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/A/Avatar%20The%20Last%20Airbender/Season%201%20Water/Episode%2016//16%20The%20Deserter.mp4",
+    "fileName": "The Deserter.mp4",
+    "s3Path": "tv/Avatar: The Last Airbender (2005)/Season 01/S01E16 - (Ep16) The Deserter.mp4",
+    "index": 1859
+  },
+  {
+    "title": "Avatar: The Last Airbender",
+    "globalEpisodeNumber": 20,
+    "sizeInMB": 83.54,
+    "seasonEpisodeNumber": 20,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/A/Avatar%20The%20Last%20Airbender/Season%201%20Water/Episode%2020//20%20The%20Siege%20Of%20The%20North%20Part%202.mp4",
+    "fileName": "The Siege Of The North Part 2.mp4",
+    "s3Path": "tv/Avatar: The Last Airbender (2005)/Season 01/S01E20 - (Ep20) The Siege Of The North Part 2.mp4",
+    "index": 1860
+  },
+  {
+    "title": "Naruto",
+    "globalEpisodeNumber": 172,
+    "sizeInMB": 83.55,
+    "seasonEpisodeNumber": 41,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto/Season%204/Episode%20172//172%20Despair,%20A%20Fractured%20Heart.mp4",
+    "fileName": "Despair, A Fractured Heart.mp4",
+    "s3Path": "tv/Naruto (2005)/Season 04/S04E41 - (Ep172) Despair, A Fractured Heart.mp4",
+    "index": 1861
+  },
+  {
+    "title": "Martin Mystery",
+    "globalEpisodeNumber": 64,
+    "sizeInMB": 83.57,
+    "seasonEpisodeNumber": 24,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/M/Martin%20Mystery/Seasons%203/Episode%2064//64%20Rage%20Of%20Leprechaum.mp4",
+    "fileName": "Rage Of Leprechaum.mp4",
+    "s3Path": "tv/Martin Mystery (2003)/Season 03/S03E24 - (Ep64) Rage Of Leprechaum.mp4",
+    "index": 1862
+  },
+  {
+    "title": "The Legend of Korra",
+    "globalEpisodeNumber": 25,
+    "sizeInMB": 83.6,
+    "seasonEpisodeNumber": 13,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/A/Avatar%20The%20Legend%20of%20Korra/Season%202%20Spirits/Episode%2025//25%20Darkness%20Falls.mp4",
+    "fileName": "Darkness Falls.mp4",
+    "s3Path": "tv/The Legend of Korra (2012)/Season 02/S02E13 - (Ep25) Darkness Falls.mp4",
+    "index": 1863
+  },
+  {
+    "title": "Naruto",
+    "globalEpisodeNumber": 199,
+    "sizeInMB": 83.6,
+    "seasonEpisodeNumber": 14,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto/Season%205/Episode%20199//199%20The%20Missed%20Target.mp4",
+    "fileName": "The Missed Target.mp4",
+    "s3Path": "tv/Naruto (2005)/Season 05/S05E14 - (Ep199) The Missed Target.mp4",
+    "index": 1864
+  },
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 215,
+    "sizeInMB": 83.6,
+    "seasonEpisodeNumber": 19,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%2010/Episode%20215//215%20Two%20Fates.mp4",
+    "fileName": "Two Fates.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 10/S10E19 - (Ep215) Two Fates.mp4",
+    "index": 1865
+  },
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 157,
+    "sizeInMB": 83.61,
+    "seasonEpisodeNumber": 6,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%208/Episode%20157//157%20Assault%20on%20the%20Leaf%20Village!.mp4",
+    "fileName": "Assault on the Leaf Village!.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 08/S08E06 - (Ep157) Assault on the Leaf Village!.mp4",
+    "index": 1866
+  },
+  {
+    "title": "Avatar: The Last Airbender",
+    "globalEpisodeNumber": 6,
+    "sizeInMB": 83.62,
+    "seasonEpisodeNumber": 6,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/A/Avatar%20The%20Last%20Airbender/Season%201%20Water/Episode%206//06%20Imprisoned.mp4",
+    "fileName": "Imprisoned.mp4",
+    "s3Path": "tv/Avatar: The Last Airbender (2005)/Season 01/S01E06 - (Ep06) Imprisoned.mp4",
+    "index": 1867
+  },
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 100,
+    "sizeInMB": 83.62,
+    "seasonEpisodeNumber": 12,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%205/Episode%20100//100%20Inside%20the%20Mist.mp4",
+    "fileName": "Inside the Mist.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 05/S05E12 - (Ep100) Inside the Mist.mp4",
+    "index": 1868
+  },
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 475,
+    "sizeInMB": 83.62,
+    "seasonEpisodeNumber": 62,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%2020/Episode%20475//475%20The%20Final%20Valley.mp4",
+    "fileName": "The Final Valley.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 20/S20E62 - (Ep475) The Final Valley.mp4",
+    "index": 1869
+  },
+  {
+    "title": "Naruto",
+    "globalEpisodeNumber": 46,
+    "sizeInMB": 83.63,
+    "seasonEpisodeNumber": 11,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto/Season%202/Episode%2046//46%20Byakugan%20Battle,%20Hinata%20Grows%20Bold!.mp4",
+    "fileName": "Byakugan Battle, Hinata Grows Bold!.mp4",
+    "s3Path": "tv/Naruto (2005)/Season 02/S02E11 - (Ep46) Byakugan Battle, Hinata Grows Bold!.mp4",
+    "index": 1870
+  },
+  {
+    "title": "The Legend of Korra",
+    "globalEpisodeNumber": 8,
+    "sizeInMB": 83.64,
+    "seasonEpisodeNumber": 8,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/A/Avatar%20The%20Legend%20of%20Korra/Season%201%20Air/Episode%2008//08%20When%20Extremes%20Meet.mp4",
+    "fileName": "When Extremes Meet.mp4",
+    "s3Path": "tv/The Legend of Korra (2012)/Season 01/S01E08 - (Ep08) When Extremes Meet.mp4",
+    "index": 1871
+  },
+  {
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "globalEpisodeNumber": 19,
+    "sizeInMB": 83.64,
+    "seasonEpisodeNumber": 19,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/D/Demon%20Slayer/Season%201/Episode%2019//19%20Hinokami.mp4",
+    "fileName": "Hinokami.mp4",
+    "s3Path": "tv/Demon Slayer: Kimetsu no Yaiba (2019)/Season 01/S01E19 - (Ep19) Hinokami.mp4",
+    "index": 1872
+  },
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 191,
+    "sizeInMB": 83.64,
+    "seasonEpisodeNumber": 16,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%209/Episode%20191//191%20Kakashi%20Love%20Song.mp4",
+    "fileName": "Kakashi Love Song.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 09/S09E16 - (Ep191) Kakashi Love Song.mp4",
+    "index": 1873
+  },
+  {
+    "title": "Avatar: The Last Airbender",
+    "globalEpisodeNumber": 14,
+    "sizeInMB": 83.69,
+    "seasonEpisodeNumber": 14,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/A/Avatar%20The%20Last%20Airbender/Season%201%20Water/Episode%2014//14%20The%20Fortuneteller.mp4",
+    "fileName": "The Fortuneteller.mp4",
+    "s3Path": "tv/Avatar: The Last Airbender (2005)/Season 01/S01E14 - (Ep14) The Fortuneteller.mp4",
+    "index": 1874
+  },
+  {
+    "title": "Naruto",
+    "globalEpisodeNumber": 110,
+    "sizeInMB": 83.71,
+    "seasonEpisodeNumber": 27,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto/Season%203/Episode%20110//110%20Formation!%20The%20Sasuke%20Retrieval%20Squad.mp4",
+    "fileName": "Formation! The Sasuke Retrieval Squad.mp4",
+    "s3Path": "tv/Naruto (2005)/Season 03/S03E27 - (Ep110) Formation! The Sasuke Retrieval Squad.mp4",
+    "index": 1875
+  },
+  {
+    "title": "Naruto",
+    "globalEpisodeNumber": 123,
+    "sizeInMB": 83.72,
+    "seasonEpisodeNumber": 40,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto/Season%203/Episode%20123//123%20The%20Leaf's%20Handsome%20Devil!.mp4",
+    "fileName": "The Leaf's Handsome Devil!.mp4",
+    "s3Path": "tv/Naruto (2005)/Season 03/S03E40 - (Ep123) The Leaf's Handsome Devil!.mp4",
+    "index": 1876
+  },
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 180,
+    "sizeInMB": 83.72,
+    "seasonEpisodeNumber": 5,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%209/Episode%20180//180%20Inari's%20Courage%20Put%20to%20the%20Test.mp4",
+    "fileName": "Inari's Courage Put to the Test.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 09/S09E05 - (Ep180) Inari's Courage Put to the Test.mp4",
+    "index": 1877
+  },
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 198,
+    "sizeInMB": 83.72,
+    "seasonEpisodeNumber": 2,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%2010/Episode%20198//198%20Five%20Kage%20Summit's%20Eve.mp4",
+    "fileName": "Five Kage Summit's Eve.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 10/S10E02 - (Ep198) Five Kage Summit's Eve.mp4",
+    "index": 1878
+  },
+  {
+    "title": "Dragon Booster",
+    "globalEpisodeNumber": 9,
+    "sizeInMB": 83.73,
+    "seasonEpisodeNumber": 9,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/D/Dragon%20booster/Season%201/Episode%209//09%20All%20Is%20Not%20Lost.mp4",
+    "fileName": "All Is Not Lost.mp4",
+    "s3Path": "tv/Dragon Booster (2004)/Season 01/S01E09 - (Ep09) All Is Not Lost.mp4",
+    "index": 1879
+  },
+  {
+    "title": "The Legend of Korra",
+    "globalEpisodeNumber": 23,
+    "sizeInMB": 83.73,
+    "seasonEpisodeNumber": 11,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/A/Avatar%20The%20Legend%20of%20Korra/Season%202%20Spirits/Episode%2023//23%20Night%20of%20a%20Thousand%20Stars.mp4",
+    "fileName": "Night of a Thousand Stars.mp4",
+    "s3Path": "tv/The Legend of Korra (2012)/Season 02/S02E11 - (Ep23) Night of a Thousand Stars.mp4",
+    "index": 1880
+  },
+  {
+    "title": "Avatar: The Last Airbender",
+    "globalEpisodeNumber": 15,
+    "sizeInMB": 83.73,
+    "seasonEpisodeNumber": 15,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/A/Avatar%20The%20Last%20Airbender/Season%201%20Water/Episode%2015//15%20Bato%20Of%20The%20Water%20Tribe.mp4",
+    "fileName": "Bato Of The Water Tribe.mp4",
+    "s3Path": "tv/Avatar: The Last Airbender (2005)/Season 01/S01E15 - (Ep15) Bato Of The Water Tribe.mp4",
+    "index": 1881
+  },
+  {
+    "title": "Naruto",
+    "globalEpisodeNumber": 43,
+    "sizeInMB": 83.73,
+    "seasonEpisodeNumber": 8,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto/Season%202/Episode%2043//43%20Killer%20Kunoichi%20And%20A%20Shaky%20Shikamaru.mp4",
+    "fileName": "Killer Kunoichi And A Shaky Shikamaru.mp4",
+    "s3Path": "tv/Naruto (2005)/Season 02/S02E08 - (Ep43) Killer Kunoichi And A Shaky Shikamaru.mp4",
+    "index": 1882
+  },
+  {
+    "title": "Naruto",
+    "globalEpisodeNumber": 51,
+    "sizeInMB": 83.73,
+    "seasonEpisodeNumber": 16,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto/Season%202/Episode%2051//51%20A%20Shadow%20In%20Darkness,%20Danger%20Approaches%20Sasuke.mp4",
+    "fileName": "A Shadow In Darkness, Danger Approaches Sasuke.mp4",
+    "s3Path": "tv/Naruto (2005)/Season 02/S02E16 - (Ep51) A Shadow In Darkness, Danger Approaches Sasuke.mp4",
+    "index": 1883
+  },
+  {
+    "title": "Naruto",
+    "globalEpisodeNumber": 119,
+    "sizeInMB": 83.73,
+    "seasonEpisodeNumber": 36,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto/Season%203/Episode%20119//119%20Miscalculation,%20A%20New%20Enemy%20Appears!.mp4",
+    "fileName": "Miscalculation, A New Enemy Appears!.mp4",
+    "s3Path": "tv/Naruto (2005)/Season 03/S03E36 - (Ep119) Miscalculation, A New Enemy Appears!.mp4",
+    "index": 1884
+  },
+  {
+    "title": "Avatar: The Last Airbender",
+    "globalEpisodeNumber": 22,
+    "sizeInMB": 83.74,
+    "seasonEpisodeNumber": 2,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/A/Avatar%20The%20Last%20Airbender/Season%202%20Earth/Episode%2022//22%20The%20Cave%20Of%20Two%20Lovers.mp4",
+    "fileName": "The Cave Of Two Lovers.mp4",
+    "s3Path": "tv/Avatar: The Last Airbender (2005)/Season 02/S02E02 - (Ep22) The Cave Of Two Lovers.mp4",
+    "index": 1885
+  },
+  {
+    "title": "Naruto",
+    "globalEpisodeNumber": 63,
+    "sizeInMB": 83.75,
+    "seasonEpisodeNumber": 28,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto/Season%202/Episode%2063//63%20Hit%20It%20Or%20Quit%20It,%20The%20Final%20Rounds%20Get%20Complicated!.mp4",
+    "fileName": "Hit It Or Quit It, The Final Rounds Get Complicated!.mp4",
+    "s3Path": "tv/Naruto (2005)/Season 02/S02E28 - (Ep63) Hit It Or Quit It, The Final Rounds Get Complicated!.mp4",
+    "index": 1886
+  },
+  {
+    "title": "Naruto",
+    "globalEpisodeNumber": 68,
+    "sizeInMB": 83.75,
+    "seasonEpisodeNumber": 33,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto/Season%202/Episode%2068//68%20Zero%20Hour!%20The%20Destruction%20Of%20The%20Hidden%20Leaf%20Village%20Begins!.mp4",
+    "fileName": "Zero Hour! The Destruction Of The Hidden Leaf Village Begins!.mp4",
+    "s3Path": "tv/Naruto (2005)/Season 02/S02E33 - (Ep68) Zero Hour! The Destruction Of The Hidden Leaf Village Begins!.mp4",
+    "index": 1887
+  },
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 181,
+    "sizeInMB": 83.76,
+    "seasonEpisodeNumber": 6,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%209/Episode%20181//181%20Naruto's%20School%20of%20Revenge.mp4",
+    "fileName": "Naruto's School of Revenge.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 09/S09E06 - (Ep181) Naruto's School of Revenge.mp4",
+    "index": 1888
+  },
+  {
+    "title": "Naruto",
+    "globalEpisodeNumber": 21,
+    "sizeInMB": 83.77,
+    "seasonEpisodeNumber": 21,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto/Season%201/Episode%2021//21%20Identify%20Yourself,%20Powerful%20New%20Rivals.mp4",
+    "fileName": "Identify Yourself, Powerful New Rivals.mp4",
+    "s3Path": "tv/Naruto (2005)/Season 01/S01E21 - (Ep21) Identify Yourself, Powerful New Rivals.mp4",
+    "index": 1889
+  },
+  {
+    "title": "Naruto",
+    "globalEpisodeNumber": 25,
+    "sizeInMB": 83.78,
+    "seasonEpisodeNumber": 25,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto/Season%201/Episode%2025//25%20The%20Tenth%20Question.mp4",
+    "fileName": "The Tenth Question.mp4",
+    "s3Path": "tv/Naruto (2005)/Season 01/S01E25 - (Ep25) The Tenth Question.mp4",
+    "index": 1890
+  },
+  {
+    "title": "Martin Mystery",
+    "globalEpisodeNumber": 63,
+    "sizeInMB": 83.8,
+    "seasonEpisodeNumber": 23,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/M/Martin%20Mystery/Seasons%203/Episode%2063//63%20Pirates%20Of%20Doom.mp4",
+    "fileName": "Pirates Of Doom.mp4",
+    "s3Path": "tv/Martin Mystery (2003)/Season 03/S03E23 - (Ep63) Pirates Of Doom.mp4",
+    "index": 1891
+  },
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 280,
+    "sizeInMB": 83.81,
+    "seasonEpisodeNumber": 5,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%2013/Episode%20280//280%20Aesthetics%20of%20an%20Artist.mp4",
+    "fileName": "Aesthetics of an Artist.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 13/S13E05 - (Ep280) Aesthetics of an Artist.mp4",
+    "index": 1892
+  },
+  {
+    "title": "One-Punch Man",
+    "globalEpisodeNumber": 24,
+    "sizeInMB": 83.82,
+    "seasonEpisodeNumber": 12,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/O/One%20Punch%20Man/Season%202/Episode%2024//24%20The%20Wiping%20of%20the%20Disciple's%20Butt.mp4",
+    "fileName": "The Wiping of the Disciple's Butt.mp4",
+    "s3Path": "tv/One-Punch Man (2015)/Season 02/S02E12 - (Ep24) The Wiping of the Disciple's Butt.mp4",
+    "index": 1893
+  },
+  {
+    "title": "Avatar: The Last Airbender",
+    "globalEpisodeNumber": 9,
+    "sizeInMB": 83.83,
+    "seasonEpisodeNumber": 9,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/A/Avatar%20The%20Last%20Airbender/Season%201%20Water/Episode%209//09%20The%20Waterbending%20Scroll.mp4",
+    "fileName": "The Waterbending Scroll.mp4",
+    "s3Path": "tv/Avatar: The Last Airbender (2005)/Season 01/S01E09 - (Ep09) The Waterbending Scroll.mp4",
+    "index": 1894
+  },
+  {
+    "title": "Naruto",
+    "globalEpisodeNumber": 107,
+    "sizeInMB": 83.83,
+    "seasonEpisodeNumber": 24,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto/Season%203/Episode%20107//107%20The%20Battle%20Begins,%20Naruto%20vs.%20Sasuke.mp4",
+    "fileName": "The Battle Begins, Naruto vs. Sasuke.mp4",
+    "s3Path": "tv/Naruto (2005)/Season 03/S03E24 - (Ep107) The Battle Begins, Naruto vs. Sasuke.mp4",
+    "index": 1895
+  },
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 292,
+    "sizeInMB": 83.85,
+    "seasonEpisodeNumber": 17,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%2013/Episode%20292//292%20Power%20-%20Episode%203.mp4",
+    "fileName": "Power - Episode 3.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 13/S13E17 - (Ep292) Power - Episode 3.mp4",
+    "index": 1896
+  },
+  {
+    "title": "Naruto",
+    "globalEpisodeNumber": 195,
+    "sizeInMB": 83.86,
+    "seasonEpisodeNumber": 10,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto/Season%205/Episode%20195//195%20The%20Third%20Super-Beast!.mp4",
+    "fileName": "The Third Super-Beast!.mp4",
+    "s3Path": "tv/Naruto (2005)/Season 05/S05E10 - (Ep195) The Third Super-Beast!.mp4",
+    "index": 1897
+  },
+  {
+    "title": "Naruto",
+    "globalEpisodeNumber": 88,
+    "sizeInMB": 83.88,
+    "seasonEpisodeNumber": 5,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto/Season%203/Episode%2088//88%20Focal%20Point,%20The%20Mark%20Of%20The%20Leaf.mp4",
+    "fileName": "Focal Point, The Mark Of The Leaf.mp4",
+    "s3Path": "tv/Naruto (2005)/Season 03/S03E05 - (Ep88) Focal Point, The Mark Of The Leaf.mp4",
+    "index": 1898
+  },
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 182,
+    "sizeInMB": 83.89,
+    "seasonEpisodeNumber": 7,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%209/Episode%20182//182%20Gaara's%20Bond.mp4",
+    "fileName": "Gaara's Bond.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 09/S09E07 - (Ep182) Gaara's Bond.mp4",
+    "index": 1899
+  },
+  {
+    "title": "Naruto",
+    "globalEpisodeNumber": 38,
+    "sizeInMB": 83.94,
+    "seasonEpisodeNumber": 3,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto/Season%202/Episode%2038//38%20Narrowing%20The%20Field,%20Sudden%20Death%20Elimination!.mp4",
+    "fileName": "Narrowing The Field, Sudden Death Elimination!.mp4",
+    "s3Path": "tv/Naruto (2005)/Season 02/S02E03 - (Ep38) Narrowing The Field, Sudden Death Elimination!.mp4",
+    "index": 1900
+  },
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 206,
+    "sizeInMB": 83.94,
+    "seasonEpisodeNumber": 10,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%2010/Episode%20206//206%20Sakura%E2%80%99s%20Feelings.mp4",
+    "fileName": "Sakura’s Feelings.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 10/S10E10 - (Ep206) Sakura’s Feelings.mp4",
+    "index": 1901
+  },
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 438,
+    "sizeInMB": 83.94,
+    "seasonEpisodeNumber": 25,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%2020/Episode%20438//438%20The%20Rules%20or%20a%20Comrade.mp4",
+    "fileName": "The Rules or a Comrade.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 20/S20E25 - (Ep438) The Rules or a Comrade.mp4",
+    "index": 1902
+  },
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 113,
+    "sizeInMB": 83.96,
+    "seasonEpisodeNumber": 1,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%206/Episode%20113//113%20The%20Serpent's%20Pupil.mp4",
+    "fileName": "The Serpent's Pupil.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 06/S06E01 - (Ep113) The Serpent's Pupil.mp4",
+    "index": 1903
+  },
+  {
+    "title": "Naruto",
+    "globalEpisodeNumber": 192,
+    "sizeInMB": 83.97,
+    "seasonEpisodeNumber": 7,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto/Season%205/Episode%20192//192%20Ino%20Screams!%20Chubby%20Paradise!.mp4",
+    "fileName": "Ino Screams! Chubby Paradise!.mp4",
+    "s3Path": "tv/Naruto (2005)/Season 05/S05E07 - (Ep192) Ino Screams! Chubby Paradise!.mp4",
+    "index": 1904
+  },
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 323,
+    "sizeInMB": 84.02,
+    "seasonEpisodeNumber": 3,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%2015/Episode%20323//323%20The%20Five%20Kage%20Assemble.mp4",
+    "fileName": "The Five Kage Assemble.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 15/S15E03 - (Ep323) The Five Kage Assemble.mp4",
+    "index": 1905
+  },
+  {
+    "title": "Avatar: The Last Airbender",
+    "globalEpisodeNumber": 56,
+    "sizeInMB": 84.04,
+    "seasonEpisodeNumber": 16,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/A/Avatar%20The%20Last%20Airbender/Season%203%20Fire/Episode%2056//56%20The%20Southern%20Raiders.mp4",
+    "fileName": "The Southern Raiders.mp4",
+    "s3Path": "tv/Avatar: The Last Airbender (2005)/Season 03/S03E16 - (Ep56) The Southern Raiders.mp4",
+    "index": 1906
+  },
+  {
+    "title": "Dragon Booster",
+    "globalEpisodeNumber": 16,
+    "sizeInMB": 84.06,
+    "seasonEpisodeNumber": 2,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/D/Dragon%20booster/Season%202/Episode%2016//16%20Broken%20Bonds.mp4",
+    "fileName": "Broken Bonds.mp4",
+    "s3Path": "tv/Dragon Booster (2004)/Season 02/S02E02 - (Ep16) Broken Bonds.mp4",
+    "index": 1907
+  },
+  {
+    "title": "Naruto",
+    "globalEpisodeNumber": 49,
+    "sizeInMB": 84.06,
+    "seasonEpisodeNumber": 14,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto/Season%202/Episode%2049//49%20Lee's%20Hidden%20Strength,%20Forbidden%20Secret%20Jutsu!.mp4",
+    "fileName": "Lee's Hidden Strength, Forbidden Secret Jutsu!.mp4",
+    "s3Path": "tv/Naruto (2005)/Season 02/S02E14 - (Ep49) Lee's Hidden Strength, Forbidden Secret Jutsu!.mp4",
+    "index": 1908
+  },
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 474,
+    "sizeInMB": 84.06,
+    "seasonEpisodeNumber": 61,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%2020/Episode%20474//474%20Congratulations.mp4",
+    "fileName": "Congratulations.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 20/S20E61 - (Ep474) Congratulations.mp4",
+    "index": 1909
+  },
+  {
+    "title": "One-Punch Man",
+    "globalEpisodeNumber": 19,
+    "sizeInMB": 84.07,
+    "seasonEpisodeNumber": 7,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/O/One%20Punch%20Man/Season%202/Episode%2019//19%20The%20S%20Class%20Heroes.mp4",
+    "fileName": "The S Class Heroes.mp4",
+    "s3Path": "tv/One-Punch Man (2015)/Season 02/S02E07 - (Ep19) The S Class Heroes.mp4",
+    "index": 1910
+  },
+  {
+    "title": "Avatar: The Last Airbender",
+    "globalEpisodeNumber": 55,
+    "sizeInMB": 84.07,
+    "seasonEpisodeNumber": 15,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/A/Avatar%20The%20Last%20Airbender/Season%203%20Fire/Episode%2055//55%20The%20Boiling%20Rock,%20Part%202.mp4",
+    "fileName": "The Boiling Rock, Part 2.mp4",
+    "s3Path": "tv/Avatar: The Last Airbender (2005)/Season 03/S03E15 - (Ep55) The Boiling Rock, Part 2.mp4",
+    "index": 1911
+  },
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 189,
+    "sizeInMB": 84.09,
+    "seasonEpisodeNumber": 14,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%209/Episode%20189//189%20Sasuke's%20Paw%20Encyclopedia.mp4",
+    "fileName": "Sasuke's Paw Encyclopedia.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 09/S09E14 - (Ep189) Sasuke's Paw Encyclopedia.mp4",
+    "index": 1912
+  },
+  {
+    "title": "Naruto",
+    "globalEpisodeNumber": 197,
+    "sizeInMB": 84.1,
+    "seasonEpisodeNumber": 12,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto/Season%205/Episode%20197//197%20Crisis,%20The%20Hidden%20Leaf%2011%20Gather!.mp4",
+    "fileName": "Crisis, The Hidden Leaf 11 Gather!.mp4",
+    "s3Path": "tv/Naruto (2005)/Season 05/S05E12 - (Ep197) Crisis, The Hidden Leaf 11 Gather!.mp4",
+    "index": 1913
+  },
+  {
+    "title": "Avatar: The Last Airbender",
+    "globalEpisodeNumber": 12,
+    "sizeInMB": 84.11,
+    "seasonEpisodeNumber": 12,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/A/Avatar%20The%20Last%20Airbender/Season%201%20Water/Episode%2012//12%20The%20Storm.mp4",
+    "fileName": "The Storm.mp4",
+    "s3Path": "tv/Avatar: The Last Airbender (2005)/Season 01/S01E12 - (Ep12) The Storm.mp4",
+    "index": 1914
+  },
+  {
+    "title": "Naruto",
+    "globalEpisodeNumber": 41,
+    "sizeInMB": 84.12,
+    "seasonEpisodeNumber": 6,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto/Season%202/Episode%2041//41%20Kunoichi%20Rumble,%20The%20Rivals%20Get%20Serious!.mp4",
+    "fileName": "Kunoichi Rumble, The Rivals Get Serious!.mp4",
+    "s3Path": "tv/Naruto (2005)/Season 02/S02E06 - (Ep41) Kunoichi Rumble, The Rivals Get Serious!.mp4",
+    "index": 1915
+  },
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 287,
+    "sizeInMB": 84.12,
+    "seasonEpisodeNumber": 12,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%2013/Episode%20287//287%20One%20Worth%20Betting%20On.mp4",
+    "fileName": "One Worth Betting On.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 13/S13E12 - (Ep287) One Worth Betting On.mp4",
+    "index": 1916
+  },
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 107,
+    "sizeInMB": 84.13,
+    "seasonEpisodeNumber": 19,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%205/Episode%20107//107%20Strange%20Bedfellows.mp4",
+    "fileName": "Strange Bedfellows.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 05/S05E19 - (Ep107) Strange Bedfellows.mp4",
+    "index": 1917
+  },
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 222,
+    "sizeInMB": 84.13,
+    "seasonEpisodeNumber": 1,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%2011/Episode%20222//222%20The%20Five%20Kage's%20Decision.mp4",
+    "fileName": "The Five Kage's Decision.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 11/S11E01 - (Ep222) The Five Kage's Decision.mp4",
+    "index": 1918
+  },
+  {
+    "title": "The Legend of Korra",
+    "globalEpisodeNumber": 6,
+    "sizeInMB": 84.14,
+    "seasonEpisodeNumber": 6,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/A/Avatar%20The%20Legend%20of%20Korra/Season%201%20Air/Episode%2006//06%20And%20the%20Winner%20Is...mp4",
+    "fileName": "And the Winner Is...mp4",
+    "s3Path": "tv/The Legend of Korra (2012)/Season 01/S01E06 - (Ep06) And the Winner Is...mp4",
+    "index": 1919
+  },
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 211,
+    "sizeInMB": 84.15,
+    "seasonEpisodeNumber": 15,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%2010/Episode%20211//211%20Danzo%20Shimura.mp4",
+    "fileName": "Danzo Shimura.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 10/S10E15 - (Ep211) Danzo Shimura.mp4",
+    "index": 1920
+  },
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 213,
+    "sizeInMB": 84.15,
+    "seasonEpisodeNumber": 17,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%2010/Episode%20213//213%20Lost%20Bonds.mp4",
+    "fileName": "Lost Bonds.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 10/S10E17 - (Ep213) Lost Bonds.mp4",
+    "index": 1921
+  },
+  {
+    "title": "Naruto",
+    "globalEpisodeNumber": 198,
+    "sizeInMB": 84.16,
+    "seasonEpisodeNumber": 13,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto/Season%205/Episode%20198//198%20The%20Anbu%20Gives%20Up,%20Naruto's%20Recollection.mp4",
+    "fileName": "The Anbu Gives Up, Naruto's Recollection.mp4",
+    "s3Path": "tv/Naruto (2005)/Season 05/S05E13 - (Ep198) The Anbu Gives Up, Naruto's Recollection.mp4",
+    "index": 1922
+  },
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 232,
+    "sizeInMB": 84.16,
+    "seasonEpisodeNumber": 11,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%2011/Episode%20232//232%20The%20Girls'%20Get-Together.mp4",
+    "fileName": "The Girls' Get-Together.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 11/S11E11 - (Ep232) The Girls' Get-Together.mp4",
+    "index": 1923
+  },
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 183,
+    "sizeInMB": 84.17,
+    "seasonEpisodeNumber": 8,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%209/Episode%20183//183%20Naruto's%20Outbreak.mp4",
+    "fileName": "Naruto's Outbreak.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 09/S09E08 - (Ep183) Naruto's Outbreak.mp4",
+    "index": 1924
+  },
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 231,
+    "sizeInMB": 84.17,
+    "seasonEpisodeNumber": 10,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%2011/Episode%20231//231%20The%20Closed%20Route.mp4",
+    "fileName": "The Closed Route.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 11/S11E10 - (Ep231) The Closed Route.mp4",
+    "index": 1925
+  },
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 293,
+    "sizeInMB": 84.18,
+    "seasonEpisodeNumber": 18,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%2013/Episode%20293//293%20Power%20-%20Episode%204.mp4",
+    "fileName": "Power - Episode 4.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 13/S13E18 - (Ep293) Power - Episode 4.mp4",
+    "index": 1926
+  },
+  {
+    "title": "Avatar: The Last Airbender",
+    "globalEpisodeNumber": 25,
+    "sizeInMB": 84.21,
+    "seasonEpisodeNumber": 5,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/A/Avatar%20The%20Last%20Airbender/Season%202%20Earth/Episode%2025//25%20Avatar%20Day.mp4",
+    "fileName": "Avatar Day.mp4",
+    "s3Path": "tv/Avatar: The Last Airbender (2005)/Season 02/S02E05 - (Ep25) Avatar Day.mp4",
+    "index": 1927
+  },
+  {
+    "title": "Avatar: The Last Airbender",
+    "globalEpisodeNumber": 61,
+    "sizeInMB": 84.22,
+    "seasonEpisodeNumber": 21,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/A/Avatar%20The%20Last%20Airbender/Season%203%20Fire/Episode%2061//61%20Sozin's%20Comet,%20Part%204%20Avatar%20Aang.mp4",
+    "fileName": "Sozin's Comet, Part 4 Avatar Aang.mp4",
+    "s3Path": "tv/Avatar: The Last Airbender (2005)/Season 03/S03E21 - (Ep61) Sozin's Comet, Part 4 Avatar Aang.mp4",
+    "index": 1928
+  },
+  {
+    "title": "Naruto",
+    "globalEpisodeNumber": 216,
+    "sizeInMB": 84.28,
+    "seasonEpisodeNumber": 31,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto/Season%205/Episode%20216//216%20The%20Targeted%20Shukaku.mp4",
+    "fileName": "The Targeted Shukaku.mp4",
+    "s3Path": "tv/Naruto (2005)/Season 05/S05E31 - (Ep216) The Targeted Shukaku.mp4",
+    "index": 1929
+  },
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 281,
+    "sizeInMB": 84.28,
+    "seasonEpisodeNumber": 6,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%2013/Episode%20281//281%20The%20Allied%20Mom%20Force!!.mp4",
+    "fileName": "The Allied Mom Force!!.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 13/S13E06 - (Ep281) The Allied Mom Force!!.mp4",
+    "index": 1930
+  },
+  {
+    "title": "Naruto Shippuden",
+    "globalEpisodeNumber": 317,
+    "sizeInMB": 84.29,
+    "seasonEpisodeNumber": 22,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/N/Naruto%20Shippuden/Season%2014/Episode%20317//317%20Shino%20vs.%20Torune!.mp4",
+    "fileName": "Shino vs. Torune!.mp4",
+    "s3Path": "tv/Naruto Shippuden (2009)/Season 14/S14E22 - (Ep317) Shino vs. Torune!.mp4",
+    "index": 1931
+  },
+  {
+    "title": "The Legend of Korra",
+    "globalEpisodeNumber": 22,
+    "sizeInMB": 84.31,
+    "seasonEpisodeNumber": 10,
+    "downloadUrl": "https://eng.cartoonsarea.cc/USER-DATA/Cartoonsarea/English/A/Avatar%20The%20Legend%20of%20Korra/Season%202%20Spirits/Episode%2022//22%20A%20New%20Spiritual%20Age.mp4",
+    "fileName": "A New Spiritual Age.mp4",
+    "s3Path": "tv/The Legend of Korra (2012)/Season 02/S02E10 - (Ep22) A New Spiritual Age.mp4",
+    "index": 1932
+  }
+]
